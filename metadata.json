@@ -1,0 +1,5 @@
+{
+  "name": "Trắc nghiệm Tin 8",
+  "description": "Một ứng dụng trắc nghiệm Tin học lớp 8 với 51 câu hỏi, cho phép người dùng làm bài, nộp và xem kết quả chi tiết cùng điểm số.",
+  "requestFramePermissions": []
+}
